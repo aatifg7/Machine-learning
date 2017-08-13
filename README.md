@@ -1,1 +1,2 @@
 # Machine-learning
+In this project, one-vs-all logistic regression and neural networks is implemented to recognize hand-written digits. For this project, logistic regression and neural networks are used to recognize handwritten digits (from 0 to 9). Automated handwritten digit recognition is widely used today - from recognizing zip codes (postal codes)on mail envelopes to recognizing amounts written on bank checks.
